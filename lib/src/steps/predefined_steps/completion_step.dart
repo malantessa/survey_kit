@@ -24,7 +24,7 @@ class CompletionStep extends Step {
       : super(
           stepIdentifier: stepIdentifier,
           isOptional: isOptional,
-          buttonText: 'buttonText',
+          buttonText: buttonText,
           showAppBar: showAppBar,
         );
 
